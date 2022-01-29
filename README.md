@@ -1,1 +1,1 @@
-# Online-LIbrary-Management-System
+# Mini-project
